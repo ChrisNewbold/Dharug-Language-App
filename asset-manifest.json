@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a6089e44.css",
-    "main.js": "/static/js/main.bcdb8799.js",
+    "main.js": "/static/js/main.b1008b03.js",
     "static/js/787.884a584e.chunk.js": "/static/js/787.884a584e.chunk.js",
     "static/media/recipe-findr.png": "/static/media/recipe-findr.7e5cd7d5dfc4069aab49.png",
     "static/media/pwa-text-editor.png": "/static/media/pwa-text-editor.ff2ad3af9674769d2d3d.png",
@@ -20,11 +20,11 @@
     "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
     "index.html": "/index.html",
     "main.a6089e44.css.map": "/static/css/main.a6089e44.css.map",
-    "main.bcdb8799.js.map": "/static/js/main.bcdb8799.js.map",
+    "main.b1008b03.js.map": "/static/js/main.b1008b03.js.map",
     "787.884a584e.chunk.js.map": "/static/js/787.884a584e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6089e44.css",
-    "static/js/main.bcdb8799.js"
+    "static/js/main.b1008b03.js"
   ]
 }
