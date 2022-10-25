@@ -1,5 +1,4 @@
 # Dharug-Language-App
-# Module-22-Redux-Store
 
 ## Table of Content
 
